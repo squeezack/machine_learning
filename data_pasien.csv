@@ -1,0 +1,251 @@
+no,nama_pasien,umur_pasien,nyeri_dada,sulit_menelan,rasa_terbakar,regurgitasi,batuk_kronis,sakit_tenggorokan,peningkatan_airliur,gangguan_tidur,gangguan_pernapasan,perubahan_beratbadan,kelelahan,gangguan_pencernaan,species
+1,Basmi Maria Sembiring,32,2,2,1,1,2,2,2,1,2,1,2,2,Gerd
+2,Nevin Natanael Tarigan,19,1,2,2,1,1,2,2,1,1,2,2,2,Gerd
+3,Pesta Siahaan,27,2,1,2,2,1,2,1,1,1,2,1,1,Non Gerd
+4,Nofri Bremika,36,1,1,1,2,2,2,2,1,2,2,1,2,Gerd
+5,Delima Simamora,36,2,2,2,1,2,1,1,2,2,2,2,2,Gerd
+6,Pitauli Sinaga,22,2,1,2,1,2,1,2,1,2,2,2,1,Gerd
+7,Andi Santoni Pasaribu,41,2,1,2,1,2,2,2,2,2,2,2,2,Gerd
+8,Yus Rita,23,1,1,1,2,1,1,2,2,2,2,1,2,Gerd
+9,Riana Manullang,38,1,1,2,2,2,2,2,2,1,2,1,1,Gerd
+10,Sri Ulina BR.Sitepu,35,1,2,2,2,2,2,2,1,2,2,2,2,Gerd
+11,Hadriana Marhaeni Munthe,21,1,2,1,2,1,1,1,1,1,2,2,2,Non Gerd
+12,Ibrahim,35,2,1,2,1,1,2,1,1,2,1,1,1,Non Gerd
+13,Susilawati Br.Tarigan,29,1,1,1,2,1,1,1,1,1,1,1,2,Non Gerd
+14,Mardiah Syam,35,2,2,1,2,1,1,1,2,1,1,1,1,Non Gerd
+15,Hendika H.Tarigan,26,2,2,1,2,2,2,2,1,1,2,2,1,Gerd
+16,Dewi Saut Mutiara,33,2,1,2,2,1,1,2,1,2,2,2,2,Gerd
+17,Nuraasi Tampubolon,26,1,2,2,2,2,1,2,2,1,2,2,1,Gerd
+18,Rinto Lumban Gaol,23,1,2,1,2,2,2,1,2,1,1,1,1,Non Gerd
+19,Rusmahyus,41,1,2,2,2,2,2,2,2,2,2,2,2,Gerd
+20,Paskah Ulianta Br.Sihite,33,1,1,2,1,2,2,2,2,2,1,1,1,Gerd
+21,Simson Keliat,28,1,1,2,2,2,2,1,2,1,1,1,1,Non Gerd
+22,Victor Manulang,38,1,1,1,1,2,2,2,1,1,2,2,2,Gerd
+23,Ir.Setyo Purwadi,27,1,2,1,1,2,2,2,2,2,1,2,1,Gerd
+24,Rosmita Sembiring,36,1,1,1,2,2,2,2,2,1,2,2,2,Gerd
+25,Hernawati Limbong,35,2,2,2,2,1,2,2,2,2,2,2,2,Gerd
+26,April Sibarani,39,1,2,1,1,1,1,1,1,1,2,2,1,Non Gerd
+27,Naik Pandiangan,25,1,2,2,2,1,1,2,1,2,1,2,1,Gerd
+28,Rasni Br.Tarigan,31,1,1,2,1,1,2,2,1,2,2,1,2,Gerd
+29,Unggul Manurung,28,1,2,2,1,2,1,1,1,1,1,1,1,Non Gerd
+30,Tomy Budi Susanto,32,2,1,2,2,2,1,2,1,1,1,1,1,Non Gerd
+31,Sumarsyih,35,2,2,1,2,2,2,1,2,1,2,1,1,Gerd
+32,Rahimah,26,1,1,2,1,2,1,2,2,1,1,1,1,Non Gerd
+33,Nursia Br Manurung,34,1,1,2,1,2,1,1,1,1,2,2,2,Non Gerd
+34,Umi Kalsum,36,2,1,2,2,1,1,1,1,1,1,1,2,Non Gerd
+35,Iman Aulia Zabub Loi,30,2,2,1,1,2,1,1,2,2,2,1,2,Gerd
+36,Arianto b,31,2,2,1,1,1,1,2,2,1,1,2,2,Gerd
+37,Dengsi Simbolon,24,1,1,1,1,1,2,1,1,1,2,1,2,Non Gerd
+38,Nagendran,23,1,2,2,1,1,2,1,2,2,1,1,2,Gerd
+39,Ahmad Yudi,35,2,2,2,2,1,2,2,1,2,1,1,1,Gerd
+40,Darlis Effendy,22,1,1,1,1,1,1,2,1,1,1,1,2,Non Gerd
+41,"Hj,Chairani Harahap",37,2,2,2,2,2,1,2,1,2,1,1,2,Gerd
+42,JAMAA ABDISALAM FAARAH,30,2,2,2,1,2,2,2,1,2,2,1,1,Gerd
+43,RUMENTARI M.O. SIAGIAN,25,1,2,2,2,1,2,1,1,2,2,2,2,Gerd
+44,AHMED ABDULLAHI HIRSI,34,2,2,1,1,1,2,1,2,2,1,2,2,Gerd
+45,AGUSTINUS PANDAPOTAN SIANTURI,19,2,1,2,1,1,1,1,1,2,1,1,2,Non Gerd
+46,NUR BASHAR BINTI SAMIRA,23,2,2,2,2,2,1,2,2,1,2,1,2,Gerd
+47,SAFRIDA PANJAITAN,34,2,1,1,2,1,2,1,1,2,2,1,1,Non Gerd
+48,DAFFA ARADANA,39,1,1,1,1,2,2,2,2,2,1,1,1,Non Gerd
+49,SHAQIRA GINA ALLYKHA,41,1,2,2,1,1,1,2,1,1,1,1,2,Non Gerd
+50,ATI RAJAGUKGUK,25,1,1,1,1,1,2,2,1,2,2,2,1,Non Gerd
+51,RAHIMA KHATUN BINTI AZIZUR RAHMAN,23,1,2,2,1,1,1,2,1,1,2,2,2,Gerd
+52,JAMILA MOHAMED ADAN,27,1,2,1,1,2,1,1,2,2,2,1,1,Non Gerd
+53,JOSUA ARITONANG,29,2,1,2,1,2,2,2,2,2,2,2,1,Gerd
+54,PESTARIA BR BUKIT,29,2,2,1,1,2,2,1,1,1,1,2,1,Non Gerd
+55,GUSLI M TAMBUNAN ,21,1,1,1,2,1,1,1,2,1,2,1,2,Non Gerd
+56,JOYCE WANJA,30,2,2,1,2,2,1,2,2,1,1,1,2,Gerd
+57,RODIYAH,25,1,1,1,1,1,2,1,1,2,2,2,2,Non Gerd
+58,MUSE ADAM HASSAN,40,1,1,2,1,2,1,2,2,1,2,2,1,Gerd
+59,SUKHRI ABDURAHMAN MOHAMMAD,33,1,2,2,2,1,2,1,2,2,2,2,2,Gerd
+60,ALI AGHA,38,1,1,2,1,1,2,1,1,1,1,2,1,Non Gerd
+61,HOTMAIDA BORU SIJABAT,30,1,1,1,1,1,1,2,1,2,1,2,1,Non Gerd
+62,NURSALAM ERNAWATI PANJAITAN,32,1,2,2,1,1,2,2,2,2,2,1,1,Gerd
+63,ENDA ADELINA GINTING,21,1,1,1,1,1,1,2,1,1,1,1,1,Non Gerd
+64,ANGGRENI INDAH MEGAWATI,19,1,1,2,2,1,1,2,1,2,2,2,1,Gerd
+65,DAMRAH SARI,35,2,2,1,2,2,1,2,2,1,1,1,1,Gerd
+66,NURDIN HARAHAP H,19,1,2,2,2,2,1,1,1,2,2,2,1,Gerd
+67,RISNAN DALIMUNTHE,34,2,2,1,2,1,2,1,2,2,1,1,2,Gerd
+68,JOHAN TARIGAN,26,2,1,2,2,2,1,1,1,2,2,1,1,Gerd
+69,AMINA HASAN AMIR,24,2,1,1,1,1,1,2,2,2,2,2,2,Gerd
+70,SAPTA DWI RAMDRYAN,28,1,1,1,1,2,1,1,2,2,1,2,2,Non Gerd
+71,LAMBERTON SIMAMORA S.SOS,34,2,1,1,1,1,2,2,2,1,2,1,1,Non Gerd
+72,"HARRY VRIHMINANDO, P, ST",20,2,1,2,2,1,2,1,1,2,2,1,1,Gerd
+73,WENNY RIANI POETRY,26,1,2,1,1,2,2,2,2,1,1,2,2,Gerd
+74,SAPTA DWI RAMDRYAN,41,2,1,2,2,1,1,1,1,2,2,2,2,Gerd
+75,"PIT DARNIS SAHAR, S.T",36,1,2,1,1,1,1,1,1,1,1,2,2,Non Gerd
+76,SIIDOW CABDI MAHAMED,31,1,2,2,2,2,2,2,1,2,2,1,1,Gerd
+77,ISKANDAR ZULKARNAIN ROKAN,21,2,1,2,2,1,2,2,1,1,2,2,2,Gerd
+78,BANTU PERANGIN-ANGIN,31,1,2,2,2,1,2,2,1,2,1,2,2,Gerd
+79,MAHFUZAH,24,2,1,1,2,1,2,1,2,2,1,1,1,Non Gerd
+80,ACHMAD REZA SAHAB,26,2,2,2,1,1,1,1,2,1,1,1,1,Non Gerd
+81,ADEZONRI SIREGAR,23,2,1,1,2,1,1,2,2,1,2,1,1,Non Gerd
+82,LISTON SUHARDI SILABAN,24,1,1,2,1,1,2,1,1,1,2,1,1,Non Gerd
+83,ABDUL KHALIQ HASIBUAN,38,2,1,2,1,1,1,2,2,1,1,1,1,Non Gerd
+84,CINTA IRHANSYAH SEMBIRING,36,2,2,1,2,2,2,1,1,2,1,1,1,Gerd
+85,MUHAMMAD RIDHO,20,1,2,1,1,1,2,1,1,2,2,1,2,Non Gerd
+86,ANDRI AGUSTIAWAN,40,1,1,1,2,2,1,1,1,2,1,1,2,Non Gerd
+87,SARI ZULIA PEUNAWA,39,2,2,2,2,2,1,1,2,2,2,1,1,Gerd
+88,ATIK SOFIAH,19,1,2,1,1,1,1,2,2,2,2,2,1,Gerd
+89,RANTAM BR GINTING,41,2,1,2,2,2,1,2,1,1,2,2,2,Gerd
+90,JAYA MANI,40,2,1,1,1,2,2,2,1,1,1,2,1,Non Gerd
+91,NILA SARI,25,1,2,1,2,2,2,2,1,1,1,1,2,Gerd
+92,SAMPAI BR GURUSINGA,28,1,2,1,2,2,1,1,2,1,1,2,1,Non Gerd
+93,YUSLINA RUMABUTAR,35,1,1,2,1,2,1,1,1,2,2,2,1,Non Gerd
+94,SUDARSO,20,1,2,1,1,2,2,2,2,2,2,2,2,Gerd
+95,HERLINA SURBAKTI,20,2,1,2,1,2,2,2,2,2,1,1,2,Gerd
+96,SARVITRI EVRIDA,30,2,2,1,1,1,2,1,2,2,2,2,2,Gerd
+97,DEWI SENIWATI BR TARIGAN,34,1,2,1,1,1,2,2,1,2,1,1,2,Non Gerd
+98,NERVI TIODOR BR SIAHAAN,30,1,1,1,1,1,2,2,2,1,1,2,2,Non Gerd
+99,ERWIN GINTING,32,2,1,2,2,2,1,2,2,1,2,1,2,Gerd
+100,SABAR SIAHAAN,39,2,2,2,1,2,1,2,1,2,2,2,1,Gerd
+101,LENI HARTIKA BR TARIGAN,33,2,2,1,2,2,1,1,1,2,2,1,1,Gerd
+102,LINDA EVI ROSTINA PULUNGAN,38,1,2,1,1,1,1,2,2,2,1,1,1,Non Gerd
+103,Akbar Ramadhan,22,1,1,2,2,1,1,1,2,2,1,1,1,Non Gerd
+104,Daniel Velly Barus,20,1,1,2,1,1,1,1,1,2,1,2,2,Non Gerd
+105,Chintya Fifty Rina Rumapea,33,2,2,1,2,1,1,1,1,1,1,1,2,Non Gerd
+106,Novita Herawaty,38,1,2,2,2,1,2,1,2,1,1,1,2,Gerd
+107,Suwarni,28,1,1,2,2,2,2,2,2,1,1,1,1,Gerd
+108,Howakin Ali Osman,32,1,1,1,2,2,1,2,2,1,1,2,2,Gerd
+109,Silvia Febriani,38,2,2,1,1,2,2,1,1,2,1,2,2,Gerd
+110,Marintan Manullang,24,2,2,1,1,1,2,1,2,2,2,1,2,Gerd
+111,Febris Lindon Pelerado Sinaga,23,2,2,1,2,1,2,1,1,2,2,1,2,Gerd
+112,Lusiana Purba,29,1,1,1,1,2,2,1,2,1,2,2,1,Non Gerd
+113,Veronika Mardiana Sinaga,29,2,1,2,1,2,1,1,1,1,1,2,2,Non Gerd
+114,Sri Widayanti,35,1,2,1,2,2,1,2,2,2,1,1,1,Gerd
+115,Nurul Aina,38,2,2,2,2,1,2,1,2,2,1,1,1,Gerd
+116,Yosua Janiar Kencana,34,2,1,2,1,1,2,2,2,1,2,2,2,Gerd
+117,Tumpal Sijabat,25,2,2,2,1,1,1,1,2,2,1,2,2,Gerd
+118,Kontan Br.Sinulingga,19,1,2,1,2,2,2,1,2,2,2,2,2,Gerd
+119,Sahara,28,1,1,2,2,1,1,2,2,1,1,2,2,Gerd
+120,Cut Hanna Zaitira,30,2,1,2,1,2,1,2,2,1,2,2,1,Gerd
+121,Misni Iltaf,26,2,1,2,1,2,1,1,2,1,1,2,1,Non Gerd
+122,Sari Yulis ,28,1,2,1,2,1,2,2,2,1,2,2,1,Gerd
+123,Nurul Annisa,31,2,1,2,1,2,2,2,2,1,2,1,1,Gerd
+124,Revi Agusni ,35,1,1,2,1,2,1,1,1,2,1,1,2,Non Gerd
+125,Dara Qutteni,31,1,1,1,2,2,2,1,2,2,2,1,1,Gerd
+126,Zahratul Syifa,41,1,1,1,1,1,2,1,1,1,1,1,1,Non Gerd
+127,Muammar Fajir Alfaraz,37,2,2,1,1,2,1,2,2,2,2,1,1,Gerd
+128,Ahmad Nizar Safar,39,1,1,2,2,2,2,1,1,1,1,1,2,Non Gerd
+129,Sarah Nadia,27,2,2,2,1,1,2,2,2,1,1,1,2,Gerd
+130,Siti Gantiyani,19,2,2,2,2,2,2,1,2,1,2,1,2,Gerd
+131,Distifa Husna Salsabilla,39,1,1,2,1,1,2,1,1,2,1,1,2,Non Gerd
+132,Muhammad Khatami,32,1,2,1,2,2,1,2,1,2,1,1,2,Gerd
+133,Subhan Ab,32,2,1,2,2,2,2,2,2,1,1,2,2,Gerd
+134,Khaijar Apandi,40,2,1,2,1,1,1,2,1,1,1,2,1,Non Gerd
+135,Fitri Simah Rejeki,37,2,2,2,2,1,1,2,2,2,2,2,2,Gerd
+136,Armila,39,1,2,1,1,1,2,1,1,1,2,2,2,Non Gerd
+137,Faisal Ramadhan,30,1,1,2,2,2,2,2,2,2,1,1,2,Gerd
+138,Alfajri,40,1,1,1,2,2,2,2,2,2,2,1,1,Gerd
+139,Safrina Yanti,22,1,2,1,2,2,1,1,1,1,1,1,1,Non Gerd
+140,Rajali,28,2,2,2,2,2,1,1,1,2,1,2,1,Gerd
+141,Tara Vonna,28,1,2,2,1,2,2,1,1,1,1,1,1,Non Gerd
+142,Siti Munawiroh,30,1,2,2,2,2,2,2,2,2,2,2,1,Gerd
+143,Asmaul Husna,26,2,1,2,2,1,2,1,1,2,2,1,1,Gerd
+144,Nuraena,41,2,1,1,2,2,2,2,2,2,1,2,2,Gerd
+145,Anggita Prinanda,31,2,2,1,2,1,2,1,2,2,1,2,1,Gerd
+146,Lulu Agustin,40,1,1,2,1,2,1,1,2,2,2,1,1,Non Gerd
+147,Nabila Maqhfirah,24,2,2,2,1,2,2,1,1,1,1,2,2,Gerd
+148,Delia Ananda,35,2,2,1,2,2,2,1,1,1,1,1,1,Non Gerd
+149,Hayatul Asni,24,2,2,1,1,1,1,2,1,2,1,1,2,Non Gerd
+150,Sri Wahyuni,36,1,1,1,1,2,1,2,2,2,2,1,2,Gerd
+151,Dinda Safitri,25,1,1,2,2,1,1,1,1,2,1,1,2,Non Gerd
+152,Hizriani,39,2,1,1,2,1,1,1,1,2,1,1,1,Non Gerd
+153,Annisa Selpia,35,2,1,1,2,2,1,2,2,2,2,1,2,Gerd
+154,Nisfatul Mauizzah,25,2,1,1,1,1,2,2,2,2,1,1,1,Non Gerd
+155,Nuri Azrah,30,2,2,2,1,2,1,1,1,2,1,1,1,Non Gerd
+156,Putri Willia Azna,19,1,1,2,2,2,1,2,1,2,1,1,2,Gerd
+157,Annur Azza,26,2,2,2,2,1,1,1,2,1,1,1,1,Non Gerd
+158,Safprudin,40,1,1,1,1,2,2,1,2,1,2,2,2,Gerd
+159,Muhammad Rizal,20,2,2,2,1,1,2,1,2,1,2,1,2,Gerd
+160,Zainal Azqia,37,2,2,1,1,1,2,1,2,1,2,2,1,Gerd
+161,Yuna Mauliza,40,1,2,2,1,1,2,1,1,1,1,2,1,Non Gerd
+162,Muhammad Ikbal,39,1,2,2,1,1,2,2,1,2,2,2,2,Gerd
+163,Ummi Adha Br Padang,33,2,1,2,1,1,1,2,1,2,2,1,1,Non Gerd
+164,Ratul Zahra,41,1,1,2,1,2,1,2,2,2,2,2,2,Gerd
+165,Indana Zulfa,19,2,2,2,1,2,1,1,2,1,1,2,1,Gerd
+166,Rayhan Fitri,23,1,1,1,2,1,1,1,1,1,2,2,1,Non Gerd
+167,Humaira,31,2,2,1,2,2,1,1,1,2,1,1,1,Non Gerd
+168,Elvi Zahara,22,2,2,1,2,2,2,1,2,2,1,1,1,Gerd
+169,Nurul Fadhilah,35,1,1,2,1,2,1,2,1,1,1,2,2,Non Gerd
+170,Fakrorrazi,25,1,2,1,2,2,1,2,2,1,1,2,2,Gerd
+171,Ahmad Ramdani,24,1,2,2,2,2,2,2,1,1,1,1,2,Gerd
+172,Muhammad Jefri,26,1,2,2,2,1,1,1,2,1,1,1,2,Non Gerd
+173,Maulana Habibi,26,2,2,1,2,2,1,2,2,2,2,2,2,Gerd
+174,Hazel Fahlevi Pratama,29,1,1,1,1,2,1,2,1,2,1,1,1,Non Gerd
+175,Hadi Berutu,29,1,2,1,2,2,1,1,1,2,2,2,1,Gerd
+176,Nisa Mahara,28,2,2,1,1,2,1,1,2,2,1,1,1,Non Gerd
+177,Muhammad Adil,21,1,1,1,1,2,2,2,2,2,2,2,1,Gerd
+178,Al-Thoriq Amda,20,2,2,2,2,2,1,1,2,2,2,2,2,Gerd
+179,M. Arif Saputra,36,2,2,1,1,2,1,2,2,2,1,2,1,Gerd
+180,Muhammad Dzikrillah,41,2,1,1,2,2,2,1,2,1,2,1,1,Gerd
+181,Afdhalul Zikri,28,2,2,2,1,1,1,1,2,1,1,2,2,Gerd
+182,Ikhsan Maulana,26,1,2,1,1,1,1,1,1,2,1,2,1,Non Gerd
+183,Ajmir,29,2,1,1,2,2,2,2,1,2,1,2,1,Gerd
+184,Atururi Husaini Fadillah,26,2,1,2,2,2,2,2,1,2,2,2,2,Gerd
+185,Dinda Sakinah,32,1,2,1,1,1,1,2,1,1,1,1,2,Non Gerd
+186,Mutia Sarah Phonna,40,2,2,1,2,1,2,2,2,2,1,2,2,Gerd
+187,Masykuratul Muna,38,1,1,2,1,1,1,2,1,2,2,1,2,Non Gerd
+188,Nurul Azizah,31,1,2,1,2,1,1,1,2,1,1,1,1,Non Gerd
+189,Desy Al Fitryanti,19,2,1,2,1,2,2,2,2,1,1,1,2,Gerd
+190,Intan Syahira,31,2,2,1,2,1,1,1,2,2,2,1,2,Gerd
+191,Audri Afrilia,28,1,1,2,1,2,2,1,2,1,1,1,2,Non Gerd
+192,Rahmat,39,1,2,1,1,2,1,1,2,2,2,2,1,Gerd
+193,Revi Ajral Saputra,25,1,1,1,1,2,2,2,2,2,2,1,1,Gerd
+194,Mauliza Putri,35,2,2,2,2,2,1,1,1,2,2,1,1,Gerd
+195,Dara Hamdana,40,2,2,1,2,1,2,1,2,2,1,1,1,Gerd
+196,Krisnanda Lucky,20,2,1,2,1,2,1,1,1,1,2,1,2,Non Gerd
+197,Mida Karmila,23,2,1,2,2,1,1,2,2,2,2,1,1,Gerd
+198,Irma,37,1,1,2,1,2,1,1,1,2,2,1,2,Non Gerd
+199,Chintya Widiasari,35,2,1,2,2,1,2,2,2,1,1,1,1,Gerd
+200,Raisya Ramadita,24,2,2,2,1,2,1,2,1,2,2,1,2,Gerd
+201,Adinda Nabila,36,1,1,1,1,2,1,1,1,2,2,2,1,Non Gerd
+202,Baihaqqi,26,2,1,2,2,2,2,1,2,2,2,2,2,Gerd
+203,Fitry An Najwa,24,2,1,2,2,2,1,2,1,1,1,1,1,Non Gerd
+204,Rizka Anggraini,19,1,2,1,2,1,2,1,1,1,2,1,2,Non Gerd
+205,Mhd.Fakhri Azriel Pratama,32,1,2,2,2,1,2,1,2,1,1,1,2,Gerd
+206,Hafsah Indah Lestari,20,2,1,2,2,2,1,2,2,1,1,1,1,Gerd
+207,Rahmawati,27,1,1,2,1,2,1,2,2,2,1,1,2,Gerd
+208,Raisya Ananta,36,1,1,2,2,1,2,2,2,1,2,2,1,Gerd
+209,Muhammad Riski,27,1,2,2,2,2,2,1,2,1,2,2,2,Gerd
+210,Nurul A'La,20,1,2,1,2,2,2,1,2,2,2,2,2,Gerd
+211,Zuhra Rahmadani,34,1,2,2,2,2,1,2,2,2,1,2,2,Gerd
+212,Nurul Izza,33,1,1,2,1,2,2,1,1,1,1,1,2,Non Gerd
+213,Nadhila Isara,36,2,1,1,2,1,1,1,2,1,2,1,1,Non Gerd
+214,MUHAMMAD FIKRI,30,2,2,2,1,1,2,1,2,1,1,1,2,Gerd
+215,AHMAD MUBARAK,23,1,1,1,2,2,2,1,1,1,2,2,2,Gerd
+216,CUT AJA TAZKIRA SYAKILA,33,2,2,2,1,2,2,1,1,1,2,2,1,Gerd
+217,ANDIKA IKHWANUDDIN,20,2,1,1,1,1,1,2,2,1,2,2,1,Non Gerd
+218,M. IRFAN,19,1,2,2,1,2,1,2,1,1,2,1,2,Gerd
+219,KEFIN MAULANA S,21,1,2,2,2,2,1,2,2,2,1,2,2,Gerd
+220,ASYILA PUTRI BAHRI,27,1,2,2,2,1,1,1,1,2,1,1,1,Non Gerd
+221,NAJWA HERLINA,26,2,1,1,1,2,2,2,2,2,2,2,1,Gerd
+222,AISYAH NUHA ZAHIRA,36,1,1,2,1,2,1,1,1,1,1,2,1,Non Gerd
+223,IBNU FATIH,23,1,2,1,2,1,1,1,2,2,2,2,1,Gerd
+224,M. RAFIQ AL ASYI,41,2,1,2,1,1,2,2,2,2,1,1,1,Gerd
+225,DINDA WIDIANTI,36,1,2,1,2,1,2,1,1,2,2,1,1,Non Gerd
+226,MUHAMMAD ALFATIH,36,1,2,2,1,2,2,1,1,1,1,2,2,Gerd
+227,IJAL FAHMI,38,1,1,2,1,2,2,2,1,2,1,2,1,Gerd
+228,MUHAMMAD AUFAR ALTHAF,25,1,1,1,1,1,2,1,2,2,2,1,2,Non Gerd
+229,MUHAMMAD MUSRIZAL,33,2,2,2,1,1,2,1,1,1,1,2,2,Gerd
+230,NADIATUL HUSNA ALAMSYAH,31,2,2,1,2,2,1,2,1,1,1,2,2,Gerd
+231,CICI LIANI,36,2,2,2,2,2,1,1,2,2,1,1,1,Gerd
+232,FATHULLAH,35,2,2,1,1,1,2,1,1,2,1,2,1,Non Gerd
+233,RIFKI  PUTRA RAMADHAN,19,2,2,1,2,2,1,2,2,2,1,2,1,Gerd
+234,AZKA AMALINA,27,2,1,1,2,2,2,2,2,2,2,1,1,Gerd
+235,M. IKBAL,33,2,1,2,1,2,1,2,1,1,1,2,1,Non Gerd
+236,AKSAR ALFATHIR,39,1,2,1,2,2,1,1,1,2,1,2,1,Non Gerd
+237,NAJWA SYAKILA,36,2,1,2,2,2,2,2,1,2,2,2,1,Gerd
+238,M. KHADAFI FITRIANAL,37,1,1,1,2,1,1,2,2,2,2,1,2,Gerd
+239,FERI FADLI,30,2,2,1,2,1,1,1,1,1,1,1,1,Non Gerd
+240,MUHAMMAD IKRAM,38,1,2,1,2,2,1,2,2,2,1,2,2,Gerd
+241,NUGIE RESHA ALFASYA,40,1,1,1,1,1,1,2,1,1,1,1,1,Non Gerd
+242,ALIYA HUMAIRA,28,2,2,2,2,2,2,1,1,1,1,2,2,Gerd
+243,FARIS NAUFAL,24,1,1,2,1,2,1,2,2,1,2,2,1,Gerd
+244,M. FARIS ALHAFIZI,23,1,1,1,2,1,1,1,2,1,1,2,2,Non Gerd
+245,ZAWIL KIRAM,33,1,1,1,2,2,1,2,1,2,1,2,2,Gerd
+246,SALMAN ALFARISI,35,2,1,1,1,2,1,2,2,2,1,1,1,Non Gerd
+247,AIDIL ELBARIQ ANANDA,32,1,2,2,2,1,2,1,2,2,2,1,2,Gerd
+248,M. ARIF,36,1,2,1,1,2,2,2,2,1,2,2,1,Gerd
+249,MUHAMMAD ALBY ARSYS,32,1,1,2,2,1,2,1,2,2,2,2,1,Gerd
+250,MULYANA,31,1,1,1,1,1,1,2,2,2,2,1,1,Non Gerd

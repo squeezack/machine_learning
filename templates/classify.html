@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Iris Data Classification</title>
+</head>
+<body>
+    <h1>Iris Data Classification</h1>
+    <form method="post" action="{% url 'classify' %}">
+        {% csrf_token %}
+        {{ form.as_p }}
+        <button type="submit">Classify</button>
+    </form>
+    {% if result %}
+    <h2>Result: {{ result }}</h2>
+    {% endif %}
+</body>
+</html>

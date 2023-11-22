@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Data Iris</title>
+</head>
+<body>
+    <h1>Data Iris</h1>
+    <table border="1">
+        <tr>
+            <th>Nama</th>
+            <th>klasifikasi</th>
+        </tr>
+        {% for data in data_pasien %}
+        <tr>
+            <td>{{ data.nama_pasien }}</td>
+            <td>{{ data.species }}</td>
+        </tr>
+        {% endfor %}
+    </table>
+</body>
+</html>

@@ -1,0 +1,128 @@
+{% include '../layout/header.html' %}
+{% include '../layout/sidebar.html' %}
+
+<div class="card">
+    <div class="card-body">
+        <h5 class="card-title">Silahkan Isi Formulirnya</h5>
+
+        <!-- Multi Columns Form -->
+        <form method="post" action="{% url 'classify' %}">
+            {% csrf_token %}
+
+            <div class="row mb-3">
+                <label class="col-sm-4 col-form-label">Nama Pasien</label>
+                <div class="col-sm-8">
+                    {{ form.nama_pasien }}
+                </div>
+            </div>
+
+            <div class="row mb-3">
+                <label class="col-sm-4 col-form-label">Umur Pasien</label>
+                <div class="col-sm-8">
+                    {{ form.umur_pasien }}
+                </div>
+            </div>
+
+            <div class="row mb-3">
+                <label class="col-sm-4 col-form-label">Nyeri Di Dada</label>
+                <div class="col-sm-8">
+                    {{ form.nyeri_dada }}
+                </div>
+            </div>
+
+            <div class="row mb-3">
+                <label class="col-sm-4 col-form-label">Sulit Menelan</label>
+                <div class="col-sm-8">
+                    {{ form.sulit_menelan }}
+                </div>
+            </div>
+
+            <div class="row mb-3">
+                <label class="col-sm-4 col-form-label">Rasa Terbakar</label>
+                <div class="col-sm-8">
+                    {{ form.rasa_terbakar }}
+                </div>
+            </div>
+
+            <div class="row mb-3">
+                <label class="col-sm-4 col-form-label">Regurgitasi</label>
+                <div class="col-sm-8">
+                    {{ form.regurgitasi }}
+                </div>
+            </div>
+
+            <div class="row mb-3">
+                <label class="col-sm-4 col-form-label">Batuk Kronis</label>
+                <div class="col-sm-8">
+                    {{ form.batuk_kronis }}
+                </div>
+            </div>
+
+            <div class="row mb-3">
+                <label class="col-sm-4 col-form-label">Sakit Tenggorokan</label>
+                <div class="col-sm-8">
+                    {{ form.sakit_tenggorokan }}
+                </div>
+            </div>
+
+            <div class="row mb-3">
+                <label class="col-sm-4 col-form-label">Peningkatan Air Liur</label>
+                <div class="col-sm-8">
+                    {{ form.peningkatan_airliur }}
+                </div>
+            </div>
+
+            <div class="row mb-3">
+                <label class="col-sm-4 col-form-label">Gangguan Tidur</label>
+                <div class="col-sm-8">
+                    {{ form.gangguan_tidur }}
+                </div>
+            </div>
+
+            <div class="row mb-3">
+                <label class="col-sm-4 col-form-label">Gangguan Pernapasan</label>
+                <div class="col-sm-8">
+                    {{ form.gangguan_pernapasan }}
+                </div>
+            </div>
+
+            <div class="row mb-3">
+                <label class="col-sm-4 col-form-label">Perubahan Berat Badan</label>
+                <div class="col-sm-8">
+                    {{ form.perubahan_beratbadan }}
+                </div>
+            </div>
+
+            <div class="row mb-3">
+                <label class="col-sm-4 col-form-label">Mudah Lelah</label>
+                <div class="col-sm-8">
+                    {{ form.kelelahan }}
+                </div>
+            </div>
+
+            
+            <div class="row mb-3">
+                <label class="col-sm-4 col-form-label">Gangguan Pencernaan</label>
+                <div class="col-sm-8">
+                    {{ form.gangguan_pencernaan }}
+                </div>
+            </div>
+            <br>
+            <button type="submit" class="btn btn-primary">Klasifikasi</button>
+        </form><!-- End Multi Columns Form -->
+        {% if result %}
+        <br><br>
+        <div class="alert alert-info alert-dismissible fade show" role="alert">
+            <span>Nama : {{ nama }}</span>
+            <br>
+            <span>Hasil Klasifikasi: {{ result }}</span>
+            <button type="button" class="btn-close" data-bs-dismiss="alert" aria-label="Close"></button>
+        </div>
+
+        {% endif %}
+
+    </div>
+</div>
+
+
+{% include '../layout/footer.html' %}

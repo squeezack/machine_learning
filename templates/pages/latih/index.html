@@ -1,0 +1,36 @@
+{% include '../layout/header.html' %}
+{% include '../layout/sidebar.html' %}
+
+
+<div class="card">
+    <div class="card-body">
+      <h5 class="card-title">{{ title }}</h5>
+
+      <!-- Table with hoverable rows -->
+      <table class="table table-hover">
+        <thead>
+          <tr>
+            <th scope="col">No</th>
+            <th scope="col">Name Pasien</th>
+            <th scope="col">Umur</th>
+            <th scope="col">Klasifikasi</th>
+            <th scope="col">Action</th>
+          </tr>
+        </thead>
+        <tbody>
+            {%  for data in data_pasien %}
+          <tr>
+            <td>{{ data.no }}</td>
+            <td>{{ data.nama_pasien }}</td>
+            <td>{{ data.umur_pasien }}</td>
+            <td>{{ data.species }}</td>
+            <td>
+                <a href="" type="button" class="btn btn-warning"><i class="bi bi-exclamation-triangle"></i></a>
+                <a href="" type="button" class="btn btn-danger"><i class="bi bi-exclamation-octagon"></i></a>
+            </td>
+          </tr>
+          {% endfor %}
+        </tbody>
+      </table>
+      <!-- End Table with hoverable rows -->
+      {% include '../layout/footer.html' %}
