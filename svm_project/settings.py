@@ -38,7 +38,8 @@ INSTALLED_APPS = [
     'django.contrib.messages',
     'django.contrib.staticfiles',
     'svm_dashboard',
-    'svm_latih'
+    'svm_latih',
+    'svm_login'
 ]
 
 MIDDLEWARE = [

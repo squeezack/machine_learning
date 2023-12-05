@@ -16,12 +16,19 @@ Including another URLconf
 """
 from django.contrib import admin
 from django.urls import path
+from svm_login import views as Login
 from svm_latih import views as Latih
 from svm_dashboard import views as Dashboard
+from svm_users import views as users
 
 urlpatterns = [
     path('admin/', admin.site.urls),
-    path('', Dashboard.index, name='dashboard'),
+    path('dashboard/', Dashboard.index, name='dashboard'),
     path('latih/', Latih.index, name='latih'),
     path('classify/', Latih.classify, name='classify'),
+    path('', Login.login_view, name='login'),
+    path('logout/', Login.logout_view, name='logout'),
+    path('users/', users.index, name='users'),
+     path('users/<int:pk>/', users.user_detail, name='user_detail'),
+     path('latih/<int:pk>/', Latih.data_detail, name='data_detail'),
 ]

@@ -1,0 +1,156 @@
+<!-- Tambahkan informasi lainnya sesuai kebutuhan -->
+{% include '../layout/header.html' %}
+{% include '../layout/sidebar.html' %}
+
+
+<div class="card">
+  <div class="card-body ">
+
+    <div class="tab-content pt-2">
+
+      <div class="tab-pane fade show active profile-overview" id="profile-overview">
+        <h5 class="card-title">Data Pasien</h5>
+
+        <div class="row">
+          <div class="col-lg-3 col-md-4 label ">Nama Pasien</div>
+          <div class="col-lg-9 col-md-8">{{ data_pasien.nama_pasien }}</div>
+        </div>
+
+        <div class="row">
+          <div class="col-lg-3 col-md-4 label">Umur Pasien</div>
+          <div class="col-lg-9 col-md-8">{{ data_pasien.umur_pasien }} Tahun</div>
+        </div>
+
+        <div class="row">
+          <div class="col-lg-3 col-md-4 label">Nyeri di Dada</div>
+          <div class="col-lg-9 col-md-8">
+            {% if data_pasien.nyeri_dada == 1 %}
+            Tidak
+            {% else %}
+            Ya
+            {% endif %}</div>
+        </div>
+
+        <div class="row">
+          <div class="col-lg-3 col-md-4 label">Sulit Menelan</div>
+          <div class="col-lg-9 col-md-8">
+            {% if data_pasien.sulit_menelan == 1 %}
+            Tidak
+            {% else %}
+            Ya
+            {% endif %}</div>
+        </div>
+
+        <div class="row">
+          <div class="col-lg-3 col-md-4 label">Rasa Terbakar</div>
+          <div class="col-lg-9 col-md-8">
+            {% if data_pasien.rasa_terbakar == 1 %}
+            Tidak
+            {% else %}
+            Ya
+            {% endif %}</div>
+        </div>
+
+        <div class="row">
+          <div class="col-lg-3 col-md-4 label">Regurgitasi</div>
+          <div class="col-lg-9 col-md-8">
+            {% if data_pasien.regurgitasi == 1 %}
+            Tidak
+            {% else %}
+            Ya
+            {% endif %}</div>
+        </div>
+
+        <div class="row">
+          <div class="col-lg-3 col-md-4 label">Batuk Kronis</div>
+          <div class="col-lg-9 col-md-8">
+            {% if data_pasien.batuk_kronis == 1 %}
+            Tidak
+            {% else %}
+            Ya
+            {% endif %}</div>
+        </div>
+
+        <div class="row">
+          <div class="col-lg-3 col-md-4 label">Sakit Tenggorokan</div>
+          <div class="col-lg-9 col-md-8">
+            {% if data_pasien.sakit_tenggorokan == 1 %}
+            Tidak
+            {% else %}
+            Ya
+            {% endif %}</div>
+        </div>
+
+        <div class="row">
+          <div class="col-lg-3 col-md-4 label">Peningkatan Produksi Air Liur</div>
+          <div class="col-lg-9 col-md-8">
+            {% if data_pasien.peningkatan_airliur == 1 %}
+            Tidak
+            {% else %}
+            Ya
+            {% endif %}</div>
+        </div>
+
+        <div class="row">
+          <div class="col-lg-3 col-md-4 label">Gangguan Tidur</div>
+          <div class="col-lg-9 col-md-8">
+            {% if data_pasien.gangguan_tidur == 1 %}
+            Tidak
+            {% else %}
+            Ya
+            {% endif %}</div>
+        </div>
+
+        <div class="row">
+          <div class="col-lg-3 col-md-4 label">Gangguan Pernapasan</div>
+          <div class="col-lg-9 col-md-8">
+            {% if data_pasien.gangguan_pernapasan == 1 %}
+            Tidak
+            {% else %}
+            Ya
+            {% endif %}</div>
+        </div>
+
+        <div class="row">
+          <div class="col-lg-3 col-md-4 label">Perubahan Berat Badan</div>
+          <div class="col-lg-9 col-md-8">
+            {% if data_pasien.perubahan_beratbadan == 1 %}
+            Tidak
+            {% else %}
+            Ya
+            {% endif %}</div>
+        </div>
+        
+        <div class="row">
+          <div class="col-lg-3 col-md-4 label">Kelelahan</div>
+          <div class="col-lg-9 col-md-8">
+            {% if data_pasien.kelelahan == 1 %}
+            Tidak
+            {% else %}
+            Ya
+            {% endif %}</div>
+        </div>
+        
+        <div class="row">
+          <div class="col-lg-3 col-md-4 label">Gangguan Pencernaan</div>
+          <div class="col-lg-9 col-md-8">
+            {% if data_pasien.gangguan_pencernaan == 1 %}
+            Tidak
+            {% else %}
+            Ya
+            {% endif %}</div>
+        </div>
+      </div>
+
+    </div><!-- End Bordered Tabs -->
+
+  </div>
+</div>
+
+</div>
+</div>
+</section>
+
+</main><!-- End #main -->
+<!-- End Table with hoverable rows -->
+{% include '../layout/footer.html' %}

@@ -55,7 +55,10 @@ def index(request):
         'data_pasien' : DataPasien.objects.all()
     }
     return render(request, 'pages/latih/index.html', context)
-
+    
+def data_detail(request, pk):
+    data_pasien = DataPasien.objects.get(pk=pk)
+    return render(request, 'pages/latih/detail.html', {'data_pasien': data_pasien})
 
 def classify(request):
     result = None
@@ -82,8 +85,9 @@ def classify(request):
             predicted_label = svm_model.predict([[nyeri_dada, sulit_menelan, rasa_terbakar, regurgitasi, batuk_kronis, sakit_tenggorokan, peningkatan_airliur, gangguan_tidur, gangguan_pernapasan, perubahan_beratbadan, kelelahan,gangguan_pencernaan]])[0]
 
             # Convert numeric label back to species name
+            nama_pasien = form.cleaned_data['nama_pasien']
             result = predicted_label
     else:
         form = InputForm()
 
-    return render(request, 'pages/klasifikasi/index.html', {'form': form, 'result': result})
+    return render(request, 'pages/klasifikasi/index.html', {'form': form,'nama_pasien':nama_pasien, 'result': result})

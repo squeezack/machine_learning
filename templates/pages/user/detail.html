@@ -1,0 +1,30 @@
+
+<!-- Tambahkan informasi lainnya sesuai kebutuhan -->
+{% include '../layout/header.html' %}
+{% include '../layout/sidebar.html' %}
+
+
+<div class="card">
+    <div class="card-body">
+      <h5 class="card-title">User Detail</h5>
+
+      <!-- Table with hoverable rows -->
+      <table class="table table-hover">
+        <thead>
+          <tr>
+            <th scope="col">Username</th>
+            <th scope="col">Email</th>
+            <th scope="col">Password</th>
+          </tr>
+        </thead>
+        <tbody> 
+          <tr>
+            <td>{{ user.username }}</td>
+            <td>{{ user.email }}</td>
+            <td>{{ user.password }}</td>
+            
+          </tr>
+        </tbody>
+      </table>
+      <!-- End Table with hoverable rows -->
+      {% include '../layout/footer.html' %}

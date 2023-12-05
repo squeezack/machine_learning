@@ -32,7 +32,7 @@
             <li class="nav-item pe-3">
 
                 <a class="nav-link nav-profile d-flex align-items-center pe-0" href="#" data-bs-toggle="dropdown">
-                    <a class="dropdown-item d-flex align-items-center" href="#">
+                    <a class="dropdown-item d-flex align-items-center" href="{% url 'logout' %}">
                         <i class="bi bi-box-arrow-right"></i>
                         <span>Sign Out</span>
                     </a>
@@ -64,7 +64,7 @@
             <ul id="components-nav" class="nav-content collapse " data-bs-parent="#sidebar-nav">
                
                 <li>
-                    <a href="components-alerts.html">
+                    <a href="{% url 'users' %}">
                         <i class="bi bi-circle"></i><span>Data User</span>
                     </a>
                 </li>
