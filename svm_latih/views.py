@@ -46,7 +46,7 @@ labels = [data.species for data in data_pasien]
 X_train, X_test, y_train, y_test = train_test_split(features, labels, test_size=0.2, random_state=42)
 
 # Initialize and train SVM model
-svm_model = svm.SVC(kernel='linear', C=1, gamma='auto') #SVM Jenis model linear
+svm_model = svm.SVC(kernel='poly', C=1, gamma='auto') #SVM Jenis model linear
 svm_model.fit(X_train, y_train)
 
 def index(request):
@@ -85,9 +85,10 @@ def classify(request):
             predicted_label = svm_model.predict([[nyeri_dada, sulit_menelan, rasa_terbakar, regurgitasi, batuk_kronis, sakit_tenggorokan, peningkatan_airliur, gangguan_tidur, gangguan_pernapasan, perubahan_beratbadan, kelelahan,gangguan_pencernaan]])[0]
 
             # Convert numeric label back to species name
-            nama_pasien = form.cleaned_data['nama_pasien']
-            result = predicted_label
+            result = nama_pasien, predicted_label
+
+            print(result)
     else:
         form = InputForm()
 
-    return render(request, 'pages/klasifikasi/index.html', {'form': form,'nama_pasien':nama_pasien, 'result': result})
+    return render(request, 'pages/klasifikasi/index.html', {'form': form, 'result': result})
